@@ -8,8 +8,8 @@ export function Footer(){
         <div className='flex items-center gap-3'>
         <Image src="/midnights.png" className='w-full' width={56} height={56} alt="Capa do álbum Midnights da Taylor Swift" />
         <div className='flex flex-col'>
-          <strong className='font-normal'>Labyrinth</strong>
-          <span className='text-xs text-zinc-400'>Taylor Swift</span>
+          <strong className='font-normal hover:underline'>Labyrinth</strong>
+          <span className='text-xs text-zinc-400 hover:underline'>Taylor Swift</span>
         </div>
         </div>
 
